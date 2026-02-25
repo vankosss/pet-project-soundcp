@@ -1,0 +1,10 @@
+{
+  "name": "streaming",
+  "version-string": "0.1.0",
+  "dependencies": [
+    "libpqxx",
+    "crow",
+    "taglib",
+    "nlohmann-json"
+  ]
+}
